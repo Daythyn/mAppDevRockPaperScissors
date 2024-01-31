@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab1B Rock Paper Scissors</string>
+
+    <string name="titleText">Welcome to Rock-Paper-Scissors!</string>
+    <string name="instructiontext">choose your weapon!</string>
+
+    <string name="rockButtonText">Rock</string>
+    <string name="paperButtonText">Paper</string>
+    <string name="scissorButtonText">Scissors</string>
+
+    <string name="scoreText">Player: %1$d, Computer: %2$d</string>
+    <string name="PlayerWText">Player\'s Weapon: %1$s</string>
+    <string name="CompWText">Computer\'s Weapon: %1$s</string>
+    <string name="winnerText">%1$s Wins!</string>
+
+    <string name="noWeapontext">Nothing yet!</string>
+    <string name="noWinnertext">Who will win?</string>
+    <string name="tieText">Tie!</string>
+
+
+</resources>
